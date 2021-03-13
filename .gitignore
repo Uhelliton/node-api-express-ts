@@ -62,3 +62,5 @@ typings/
 
 # typescript compiled code
 dist/
+
+.idea
